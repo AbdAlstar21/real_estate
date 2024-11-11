@@ -3,6 +3,11 @@ The system includes two applications: a user application and a Dashboard applica
 Dashboard:
 [![Videoyu izleyin](https://i9.ytimg.com/vi_webp/2k4j2sjad9o/mq2.webp?sqp=CNiNyLkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShUMA8=&rs=AOn4CLC9MPp6LDZBbIax1IRSmlDfRm3hUA)](https://youtu.be/2k4j2sjad9o)
 
+
+<br>
+<hr>
+<br>
+
 real_estate:
 
 
